@@ -130,7 +130,7 @@ const songs=[
         artist: 'Jaya Kishori',
     },
     {
-        name: 'Bade Badai',
+        name: 'Bade badai',
         displayName: "Bade Badai Na Kare",
         artist: 'Rahim- Ankhiyo Ke Jharokon Se',
     },
