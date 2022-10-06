@@ -1,10 +1,11 @@
 /* Images created by: https://unsplash.com/@pawel_czerwinski */
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&display=swap');
 
-@media screen and (max-width:314px) {
+@media screen and (max-width:1600px) {
   .player-container{
     width: 95vw;
   }
+  
 }
 
 
