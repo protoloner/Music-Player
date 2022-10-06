@@ -169,6 +169,11 @@ const songs=[
         displayName: "Balam Thanedar(Gypsy)",
         artist: 'GD Kaur',
     },
+    {
+        name: 'Sajaniya',
+        displayName: "Sajaniya",
+        artist: 'Ali Zafar',
+    },
 
 ]
 
